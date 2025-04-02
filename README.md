@@ -1,9 +1,5 @@
 # Suzano_Python-Developer
 
-Este projeto é um conjunto de estudos e práticas em Python, organizado em três grandes áreas temáticas, cada uma representada por uma pasta. Abaixo está uma visão geral de cada pasta e seu conteúdo:
-
----
-
 ## **1 - Sintaxe Básica com Python**
 Esta pasta contém exemplos e desafios introdutórios para aprender a sintaxe básica do Python. Ela está dividida em subpastas que abordam diferentes tópicos fundamentais:
 
