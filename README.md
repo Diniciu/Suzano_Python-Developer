@@ -33,4 +33,4 @@ Esta pasta foca na Programação Orientada a Objetos (POO), abordando conceitos 
 ---
 
 ## **Resumo**
-O projeto é uma coleção abrangente de exemplos e práticas que cobrem desde os fundamentos da linguagem Python até conceitos avançados de POO. Ele é ideal para quem está aprendendo Python e deseja consolidar conhecimentos em áreas como manipulação de dados, estruturas de controle e design orientado a objetos.
+O projeto é uma coleção abrangente de exemplos e práticas que cobrem desde os fundamentos da linguagem Python até conceitos avançados de POO.
